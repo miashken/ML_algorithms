@@ -1,2 +1,4 @@
 # ML_algorithms
-implementation of known machine learning algorithms from scratch in python
+(By Michal Ashkenazi)
+- ML projects
+- Implementation of known ML algorithms from scratch in python
